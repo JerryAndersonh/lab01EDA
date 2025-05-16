@@ -1,4 +1,5 @@
-# Proyecto Java: Implementación de Algoritmos Clásicos
+# Laboratorio 01 - Estructuras de Datos y Algoritmos A
+### Nombre: Jerry Anderson Huaynacho Mango
 
 Este proyecto contiene la implementación de tres ejercicios algorítmicos desarrollados en Java. Cada ejercicio inicia con la formulación del algoritmo en lenguaje natural, seguida de su implementación en código.
 
