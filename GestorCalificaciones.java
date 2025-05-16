@@ -57,5 +57,7 @@ public class GestorCalificaciones {
         System.out.println("Mediana: " + mediana);
         System.out.println("Moda: " + moda);
         System.out.println("Desviación estándar: " + desviacionEstandar);
+
+        scanner.close();
     }
 }
