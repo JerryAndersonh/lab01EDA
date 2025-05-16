@@ -28,7 +28,7 @@ public class CribaEratostenes {
             }
         }
         
-        System.out.println("Números primos hasta " + n + ":");
+        System.out.println("Números primos hasta " + n + ": ");
         System.out.println(primos);
     }
 }
