@@ -19,6 +19,8 @@ public class OrdenamientoInsercion {
         ordenarPorInsercion(arreglo);
         
         System.out.println("Arreglo ordenado: " + Arrays.toString(arreglo));
+
+        scanner.close();
     }
     
     public static void ordenarPorInsercion(int[] arreglo) {
